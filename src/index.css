@@ -1,0 +1,14 @@
+html,
+body {
+  height: 99vh;
+}
+
+body {
+  background: #223;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+  height: 100%;
+}
